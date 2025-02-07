@@ -8,3 +8,6 @@ ___
 ### February 6 2024
 AnTamayo1: Edited ```Software Development Proposal.docx``` - Customer Profile and Existing System
 ___
+### February 7 2024
+Mikachu-chu: Edited ```Software Development Proposal.docx``` - Business Need
+___

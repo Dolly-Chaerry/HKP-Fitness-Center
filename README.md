@@ -11,3 +11,6 @@ ___
 ### February 7 2024
 Mikachu-chu: Edited ```Software Development Proposal.docx``` - Business Need
 ___
+### February 8 2024
+Mikachu-chu: Edited ```Software Development Proposal.docx``` - Business Need
+___

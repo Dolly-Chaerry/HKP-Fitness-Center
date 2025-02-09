@@ -14,3 +14,6 @@ ___
 ### February 8 2024
 Mikachu-chu: Edited ```Software Development Proposal.docx``` - Business Need
 ___
+### February 10 2024
+Mikachu-chu: Edited ```Software Development Proposal.docx``` - Critical Constraints / Functional Requirements
+___

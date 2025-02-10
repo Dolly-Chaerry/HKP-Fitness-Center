@@ -23,3 +23,5 @@ ___
 ### February 10 2025
 Dolly-Chaerry: Edited ```Software Development Proposal.docx``` - User Interface
 ___
+### February 10 2025
+RenzyRFP: Edited ```Software Development Proposal.docx``` - Summary of Customer Priorities and Expectations

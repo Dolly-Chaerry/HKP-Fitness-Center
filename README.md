@@ -20,3 +20,6 @@ ___
 ### February 10 2025
 tonipettt: Edited ```Software Development Proposal.docx``` - Project Deliverables
 ___
+### February 10 2025
+Dolly-Chaerry: Edited ```Software Development Proposal.docx``` - User Interface
+___

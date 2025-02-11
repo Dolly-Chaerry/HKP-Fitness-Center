@@ -23,8 +23,6 @@ ___
 ### February 10 2025
 Dolly-Chaerry: Edited ```Software Development Proposal.docx``` - User Interface
 ___
-<<<<<<< Updated upstream
-=======
 ### February 10 2025
 RenzyRFP: Edited ```Software Development Proposal.docx``` - Summary of Customer Priorities and Expectations
 ___
@@ -37,4 +35,3 @@ Mikachu-chu: Edited ```Software Development Proposal.docx```
 - Target Environment
 - Approvals
 - *Proofreading
->>>>>>> Stashed changes

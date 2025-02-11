@@ -25,3 +25,13 @@ Dolly-Chaerry: Edited ```Software Development Proposal.docx``` - User Interface
 ___
 ### February 10 2025
 RenzyRFP: Edited ```Software Development Proposal.docx``` - Summary of Customer Priorities and Expectations
+___
+### February 12 2025
+mirage-esc: Edited ```Software Development Proposal.docx``` - Preliminary Requirements
+___
+### February 12 2025
+Mikachu-chu: Edited ```Software Development Proposal.docx``` 
+- Functional Requirements
+- Target Environment
+- Approvals
+- *Proofreading
